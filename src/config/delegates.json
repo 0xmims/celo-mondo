@@ -11,6 +11,18 @@
     "interests": ["ReFi", "Stablecoins", "DeFi", "Public Goods", "Superchain"],
     "description": "I’m committed entirely to enabling Regeneration at scale and wholeheartedly believe Celo’s vision to build a digital economy that creates conditions for all is a foundation required to realize my mission. As a Celo Builder, I want to support Celo’s development and good governance, and believe my experience as a Web3 delegate and founder can help progress Celo. I have 5+ years of experience participating in leading DAOs, including PrimeDAO, BalancerDAO, SafeDAO, and Optimism."
   },
+  "0x657D07095b082BB71ebD93F549f407A97f49094F":{
+    "name": "0xMims",
+    "address": "0x657D07095b082BB71ebD93F549f407A97f49094F",
+    "logoUri": "/logos/delegatees/0xMims.jpeg",
+    "date": "2024-08-19",
+    "links": {
+      "twitter": "https://twitter.com/0xMims"
+    },
+    "interests": ["DAO Design", "Fitness", "Language Learning", "Cooking"],
+    "description": "I’ve been committed to the crypto ecosystem for about three years now. I had my start with FranklinDAO/Penn Blockchain on its research committee. Since graduating a few months ago, I’ve been honored to be welcomed into the Blockworks team on their protocol services wing. I am currently representing Blockworks across multiple DAOs and we perform applied research to help push DAOs into new directions. To be explicit though, my interest in Celo is personal, not occupational, and I seek to help expand Celo’s regeneration initiative and help enforce its public-goods identity. While I have no prior forum history, I certainly have the background and history that would describe me as a long-term participant."
+  },
+
   "0xC20F4412fa84b33e0f3657113736F229a811A285": {
     "name": "iamoracle",
     "address": "0xC20F4412fa84b33e0f3657113736F229a811A285",
